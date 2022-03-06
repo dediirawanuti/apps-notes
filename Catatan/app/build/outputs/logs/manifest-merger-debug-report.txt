@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [io.realm:realm-android-library-object-server:5.1.0] /home/dedi/Android/Sdk/caches/transforms-3/291b7b409f1bc3154b2a62824d127efe/transformed/realm-android-library-object-server-5.1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/acfd9c22aed3dc4f39ebf82daa35a07d/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/cf7ae6eb88361580ed938518f13f2019/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dedi/Android/Sdk/caches/transforms-3/5c43b28c07343ee52a66b80841aa1379/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/902be219d1f97a77550e6f744bc18c36/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/4fc974f473102fd345e885f42429fe47/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/cbb94933087495f9b98bcd288164958d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /home/dedi/Android/Sdk/caches/transforms-3/c0bd3edd36eb0f8a303e4118a22b22c4/transformed/relinker-1.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/6d1c57ff044844b56109ca3b5aeecfb8/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/494c9448d43d10badf95ba3e3ce66415/transformed/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/813c0c2adb8269e490bde7776f4b5321/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/05932286ac92786d53f98cb572ddde05/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/dedi/Android/Sdk/caches/transforms-3/21a6839fa12f3bf6edcbf4196cb06eef/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/5fa693b4955f2f95c177399d4c646295/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/2a69db56d47d526997598c236288e7bb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/4c70a8891302cd910b6b819b0646cf5c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/53b5472d6719bf8f7a8f1f4240e18ac3/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/82d84de004dba22a2f8d60514bff9368/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/c653afed2fe919847099a7791bba674d/transformed/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/af38b51dfcbbd4181e664ec282b810aa/transformed/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/16bf286ddae87ca2bad58277df0d3427/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/93e813e4ca0f73aa42eecfe312d06afc/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dedi/Android/Sdk/caches/transforms-3/3cc33c5edc9239c9259ae32ea8dca49e/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dedi/Android/Sdk/caches/transforms-3/9be8856ab105d8724c2abcedd9253a4f/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/54823cceaae9ac7182a431c817b51b34/transformed/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/80d9a42e47177dad506d8ad21aa15155/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dedi/Android/Sdk/caches/transforms-3/6e978a35a8486c30067ba653d3f82726/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dedi/Android/Sdk/caches/transforms-3/b907cf948bf7e5e4c222304c0de706f6/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dedi/Android/Sdk/caches/transforms-3/c8a625be6e4133aa0d2ce6030af4d151/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.google.android.material:material:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/acfd9c22aed3dc4f39ebf82daa35a07d/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/acfd9c22aed3dc4f39ebf82daa35a07d/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dedi/Android/Sdk/caches/transforms-3/5c43b28c07343ee52a66b80841aa1379/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dedi/Android/Sdk/caches/transforms-3/5c43b28c07343ee52a66b80841aa1379/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/af38b51dfcbbd4181e664ec282b810aa/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/af38b51dfcbbd4181e664ec282b810aa/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/93e813e4ca0f73aa42eecfe312d06afc/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/93e813e4ca0f73aa42eecfe312d06afc/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/af38b51dfcbbd4181e664ec282b810aa/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.uti.catatan.activities.MainActivity
+ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:13:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.uti.catatan.activities.TambahDataActivity
+ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:21:9-67
+	android:name
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:21:19-64
+activity#com.uti.catatan.activities.UpdateDataActivity
+ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:22:9-67
+	android:name
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml:22:19-64
+uses-sdk
+INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+MERGED from [io.realm:realm-android-library-object-server:5.1.0] /home/dedi/Android/Sdk/caches/transforms-3/291b7b409f1bc3154b2a62824d127efe/transformed/realm-android-library-object-server-5.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library-object-server:5.1.0] /home/dedi/Android/Sdk/caches/transforms-3/291b7b409f1bc3154b2a62824d127efe/transformed/realm-android-library-object-server-5.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.material:material:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/acfd9c22aed3dc4f39ebf82daa35a07d/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/acfd9c22aed3dc4f39ebf82daa35a07d/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/cf7ae6eb88361580ed938518f13f2019/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/cf7ae6eb88361580ed938518f13f2019/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dedi/Android/Sdk/caches/transforms-3/5c43b28c07343ee52a66b80841aa1379/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dedi/Android/Sdk/caches/transforms-3/5c43b28c07343ee52a66b80841aa1379/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/902be219d1f97a77550e6f744bc18c36/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/902be219d1f97a77550e6f744bc18c36/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/4fc974f473102fd345e885f42429fe47/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/4fc974f473102fd345e885f42429fe47/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/cbb94933087495f9b98bcd288164958d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/cbb94933087495f9b98bcd288164958d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /home/dedi/Android/Sdk/caches/transforms-3/c0bd3edd36eb0f8a303e4118a22b22c4/transformed/relinker-1.2.2/AndroidManifest.xml:7:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /home/dedi/Android/Sdk/caches/transforms-3/c0bd3edd36eb0f8a303e4118a22b22c4/transformed/relinker-1.2.2/AndroidManifest.xml:7:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/6d1c57ff044844b56109ca3b5aeecfb8/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/6d1c57ff044844b56109ca3b5aeecfb8/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/494c9448d43d10badf95ba3e3ce66415/transformed/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/494c9448d43d10badf95ba3e3ce66415/transformed/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/813c0c2adb8269e490bde7776f4b5321/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/813c0c2adb8269e490bde7776f4b5321/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/05932286ac92786d53f98cb572ddde05/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/05932286ac92786d53f98cb572ddde05/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/dedi/Android/Sdk/caches/transforms-3/21a6839fa12f3bf6edcbf4196cb06eef/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/dedi/Android/Sdk/caches/transforms-3/21a6839fa12f3bf6edcbf4196cb06eef/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/5fa693b4955f2f95c177399d4c646295/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/5fa693b4955f2f95c177399d4c646295/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/2a69db56d47d526997598c236288e7bb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/2a69db56d47d526997598c236288e7bb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/4c70a8891302cd910b6b819b0646cf5c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/4c70a8891302cd910b6b819b0646cf5c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/53b5472d6719bf8f7a8f1f4240e18ac3/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/53b5472d6719bf8f7a8f1f4240e18ac3/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/82d84de004dba22a2f8d60514bff9368/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/82d84de004dba22a2f8d60514bff9368/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/c653afed2fe919847099a7791bba674d/transformed/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/c653afed2fe919847099a7791bba674d/transformed/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/af38b51dfcbbd4181e664ec282b810aa/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/af38b51dfcbbd4181e664ec282b810aa/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/16bf286ddae87ca2bad58277df0d3427/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/16bf286ddae87ca2bad58277df0d3427/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/93e813e4ca0f73aa42eecfe312d06afc/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dedi/Android/Sdk/caches/transforms-3/93e813e4ca0f73aa42eecfe312d06afc/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dedi/Android/Sdk/caches/transforms-3/3cc33c5edc9239c9259ae32ea8dca49e/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dedi/Android/Sdk/caches/transforms-3/3cc33c5edc9239c9259ae32ea8dca49e/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dedi/Android/Sdk/caches/transforms-3/9be8856ab105d8724c2abcedd9253a4f/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dedi/Android/Sdk/caches/transforms-3/9be8856ab105d8724c2abcedd9253a4f/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/54823cceaae9ac7182a431c817b51b34/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/54823cceaae9ac7182a431c817b51b34/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/80d9a42e47177dad506d8ad21aa15155/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dedi/Android/Sdk/caches/transforms-3/80d9a42e47177dad506d8ad21aa15155/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dedi/Android/Sdk/caches/transforms-3/6e978a35a8486c30067ba653d3f82726/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dedi/Android/Sdk/caches/transforms-3/6e978a35a8486c30067ba653d3f82726/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dedi/Android/Sdk/caches/transforms-3/b907cf948bf7e5e4c222304c0de706f6/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dedi/Android/Sdk/caches/transforms-3/b907cf948bf7e5e4c222304c0de706f6/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dedi/Android/Sdk/caches/transforms-3/c8a625be6e4133aa0d2ce6030af4d151/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dedi/Android/Sdk/caches/transforms-3/c8a625be6e4133aa0d2ce6030af4d151/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+		ADDED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dedi/Kuliah/Pemrograman_Mobile/android_studio/TI19AB/Catatan/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.realm:realm-android-library-object-server:5.1.0] /home/dedi/Android/Sdk/caches/transforms-3/291b7b409f1bc3154b2a62824d127efe/transformed/realm-android-library-object-server-5.1.0/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [io.realm:realm-android-library-object-server:5.1.0] /home/dedi/Android/Sdk/caches/transforms-3/291b7b409f1bc3154b2a62824d127efe/transformed/realm-android-library-object-server-5.1.0/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [io.realm:realm-android-library-object-server:5.1.0] /home/dedi/Android/Sdk/caches/transforms-3/291b7b409f1bc3154b2a62824d127efe/transformed/realm-android-library-object-server-5.1.0/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [io.realm:realm-android-library-object-server:5.1.0] /home/dedi/Android/Sdk/caches/transforms-3/291b7b409f1bc3154b2a62824d127efe/transformed/realm-android-library-object-server-5.1.0/AndroidManifest.xml:11:22-64

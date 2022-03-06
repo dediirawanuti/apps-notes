@@ -1,0 +1,20 @@
+com/uti/catatan/adapter/DataAdapter.java
+ com.uti.catatan.adapter.DataAdapter
+ com.uti.catatan.adapter.DataAdapter$1
+ com.uti.catatan.adapter.DataAdapter$MyViewHolder
+com/uti/catatan/model/ModelKegiatan.java
+ com.uti.catatan.model.ModelKegiatan
+com/uti/catatan/activities/MainActivity.java
+ com.uti.catatan.activities.MainActivity
+ com.uti.catatan.activities.MainActivity$1
+com/uti/catatan/activities/TambahDataActivity.java
+ com.uti.catatan.activities.TambahDataActivity
+ com.uti.catatan.activities.TambahDataActivity$1
+com/uti/catatan/BuildConfig.java
+ com.uti.catatan.BuildConfig
+com/uti/catatan/activities/UpdateDataActivity.java
+ com.uti.catatan.activities.UpdateDataActivity
+ com.uti.catatan.activities.UpdateDataActivity$1
+ com.uti.catatan.activities.UpdateDataActivity$2
+com/uti/catatan/helper/RealmHelper.java
+ com.uti.catatan.helper.RealmHelper

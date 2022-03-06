@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.realm:realm-android-library-object-server:5.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Android/Sdk/caches/transforms-3/56946938f7a43d0e90e9d993c8a43032/transformed/realm-android-library-object-server-5.1.0/res" />
+      <root url="file://$USER_HOME$/Android/Sdk/caches/transforms-3/291b7b409f1bc3154b2a62824d127efe/transformed/realm-android-library-object-server-5.1.0/res" />
+      <root url="file://$USER_HOME$/Android/Sdk/caches/transforms-3/291b7b409f1bc3154b2a62824d127efe/transformed/realm-android-library-object-server-5.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Android/Sdk/caches/transforms-3/291b7b409f1bc3154b2a62824d127efe/transformed/realm-android-library-object-server-5.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Android/Sdk/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.1.0/7d4a12692c0d34bf007d483dba3345f224fbae0b/realm-android-library-object-server-5.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Android/Sdk/caches/modules-2/files-2.1/io.realm/realm-android-library-object-server/5.1.0/236b53afc2c0aba17e4831232015f27e7bccc265/realm-android-library-object-server-5.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
